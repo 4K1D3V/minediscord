@@ -163,7 +163,7 @@ Argument `sendToMinecraft` is `send` function of [node-modern-rcon](https://gith
 ## Authors
 
 Created by [@n0f](https://github.com/n0f)
-Maintained By [@4K1D3V](https://githubcom/4K1D3V)
+Maintained By [@4K1D3V](https://github.com/4K1D3V)
 
 
 ## Contribution
