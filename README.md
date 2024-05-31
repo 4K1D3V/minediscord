@@ -160,11 +160,11 @@ Argument `sendToDiscord` is [`send`](https://discord.js.org/#/docs/main/stable/c
 
 Argument `sendToMinecraft` is `send` function of [node-modern-rcon](https://github.com/levrik/node-modern-rcon).
 
-## Author
+## Authors
 
-[@n0f](https://github.com/n0f)
+Created by [@n0f](https://github.com/n0f)
+Maintained By [@4K1D3V](https://githubcom/4K1D3V)
 
-[![Follow](https://img.shields.io/twitter/follow/n0f.svg?style=social&label=Follow)](https://twitter.com/n0f)
 
 ## Contribution
 
